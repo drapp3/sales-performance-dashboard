@@ -22,6 +22,5 @@ Sample retail sales data (Superstore dataset from Kaggle)
 ## Screenshot
 ![Dashboard](screenshot.png)
 
-## Files
-- `Sales_Performance_Dashboard.xlsx` - Main Excel file with dashboard
+## CSV attached separately
 ![Dashboard](image.png)
